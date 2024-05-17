@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+#dominio {
+  margin-top: 20px;
+}
+
+#botongenerador {
+  margin-top: 20px;
+}
+#respuesta {
+  font-size: x-large;
+}
